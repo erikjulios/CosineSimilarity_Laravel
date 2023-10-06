@@ -1,0 +1,7 @@
+user modified sma tanggal modified
+
+filter data fgd hanya user yang insert yang bisa lihat hasil yang diinsert
+
+kenapa proses ribet karna nama pada input itu array []
+
+batasi table dan modal dengan div lalu tampilkan tabel dari proses php ke div tadi
